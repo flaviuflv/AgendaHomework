@@ -1,0 +1,11 @@
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\obj\Debug\netcoreapp2.1\AgendaHomework.csprojAssemblyReference.cache
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\obj\Debug\netcoreapp2.1\AgendaHomework.csproj.CoreCompileInputs.cache
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\obj\Debug\netcoreapp2.1\AgendaHomework.AssemblyInfoInputs.cache
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\obj\Debug\netcoreapp2.1\AgendaHomework.AssemblyInfo.cs
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\bin\Debug\netcoreapp2.1\AgendaHomework.deps.json
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\bin\Debug\netcoreapp2.1\AgendaHomework.runtimeconfig.json
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\bin\Debug\netcoreapp2.1\AgendaHomework.runtimeconfig.dev.json
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\bin\Debug\netcoreapp2.1\AgendaHomework.dll
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\bin\Debug\netcoreapp2.1\AgendaHomework.pdb
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\obj\Debug\netcoreapp2.1\AgendaHomework.dll
+C:\Users\flaviu.podariu\source\repos\AgendaHomework\AgendaHomework\obj\Debug\netcoreapp2.1\AgendaHomework.pdb
